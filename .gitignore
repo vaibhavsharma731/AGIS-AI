@@ -1,0 +1,32 @@
+# Environments & Secrets
+.env
+*.env
+*.pem
+*.csv
+step to execute/
+real-aws-thing/
+sample/
+
+# Python Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
